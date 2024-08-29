@@ -1,5 +1,5 @@
 
-package clasegenerica;
+package clasegenerica.Model;
 
 import java.util.Objects;
 
